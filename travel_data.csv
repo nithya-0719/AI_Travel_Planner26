@@ -1,0 +1,135 @@
+Destination,State,Category,Budget,Rating,Best_Season
+Goa,Goa,Beach,8000,4.5,Winter
+Calangute,Goa,Beach,7500,4.4,Winter
+Baga,Goa,Beach,8000,4.6,Winter
+Vagator,Goa,Beach,7000,4.3,Winter
+Palolem,Goa,Beach,8500,4.7,Winter
+Ooty,Tamil Nadu,Nature,5000,4.3,Summer
+Kodaikanal,Tamil Nadu,Nature,5500,4.4,Summer
+Yercaud,Tamil Nadu,Nature,4500,4.1,Summer
+Coonoor,Tamil Nadu,Nature,5200,4.3,Summer
+Valparai,Tamil Nadu,Nature,4800,4.2,Winter
+Coorg,Karnataka,Nature,6500,4.5,Winter
+Chikmagalur,Karnataka,Nature,6200,4.4,Winter
+Agumbe,Karnataka,Nature,5000,4.2,Monsoon
+Gokarna,Karnataka,Beach,7000,4.5,Winter
+Hampi,Karnataka,Historical,5000,4.4,Winter
+Mysore,Karnataka,Historical,4500,4.3,Winter
+Badami,Karnataka,Historical,4800,4.2,Winter
+Pattadakal,Karnataka,Historical,4700,4.1,Winter
+Jaipur,Rajasthan,Historical,6000,4.4,Winter
+Udaipur,Rajasthan,Historical,7000,4.6,Winter
+Jodhpur,Rajasthan,Historical,6500,4.5,Winter
+Jaisalmer,Rajasthan,Historical,8000,4.7,Winter
+Pushkar,Rajasthan,Historical,5500,4.3,Winter
+Mount Abu,Rajasthan,Nature,6000,4.2,Summer
+Manali,Himachal Pradesh,Adventure,10000,4.7,Summer
+Shimla,Himachal Pradesh,Nature,8500,4.5,Summer
+Kasol,Himachal Pradesh,Adventure,9000,4.6,Summer
+Dharamshala,Himachal Pradesh,Nature,7500,4.5,Summer
+Spiti Valley,Himachal Pradesh,Adventure,12000,4.8,Summer
+Dalhousie,Himachal Pradesh,Nature,7000,4.4,Summer
+Srinagar,Jammu and Kashmir,Nature,9000,4.7,Summer
+Gulmarg,Jammu and Kashmir,Adventure,11000,4.8,Winter
+Pahalgam,Jammu and Kashmir,Nature,9500,4.7,Summer
+Sonamarg,Jammu and Kashmir,Nature,10000,4.6,Summer
+Leh,Ladakh,Adventure,15000,4.9,Summer
+Nubra Valley,Ladakh,Adventure,14000,4.8,Summer
+Pangong Lake,Ladakh,Nature,14500,4.9,Summer
+Rishikesh,Uttarakhand,Adventure,6000,4.6,Winter
+Mussoorie,Uttarakhand,Nature,7000,4.4,Summer
+Nainital,Uttarakhand,Nature,6500,4.4,Summer
+Auli,Uttarakhand,Adventure,10000,4.7,Winter
+Jim Corbett,Uttarakhand,Nature,8000,4.5,Winter
+Haridwar,Uttarakhand,Historical,5000,4.3,Winter
+Varanasi,Uttar Pradesh,Historical,5500,4.6,Winter
+Agra,Uttar Pradesh,Historical,5000,4.7,Winter
+Lucknow,Uttar Pradesh,Historical,4800,4.2,Winter
+Prayagraj,Uttar Pradesh,Historical,4500,4.1,Winter
+Ayodhya,Uttar Pradesh,Historical,5000,4.5,Winter
+Delhi,Delhi,Historical,6000,4.4,Winter
+Chandni Chowk,Delhi,Food,4500,4.5,Winter
+Amritsar,Punjab,Historical,5500,4.7,Winter
+Patiala,Punjab,Historical,5000,4.2,Winter
+Chandigarh,Chandigarh,Nature,6500,4.3,Winter
+Darjeeling,West Bengal,Nature,7000,4.6,Summer
+Kalimpong,West Bengal,Nature,6500,4.3,Summer
+Sundarbans,West Bengal,Nature,8000,4.5,Winter
+Kolkata,West Bengal,Food,5000,4.4,Winter
+Digha,West Bengal,Beach,5500,4.1,Winter
+Puri,Odisha,Beach,6000,4.5,Winter
+Konark,Odisha,Historical,5500,4.4,Winter
+Bhubaneswar,Odisha,Historical,5000,4.2,Winter
+Chilika Lake,Odisha,Nature,6500,4.5,Winter
+Vizag,Andhra Pradesh,Beach,7000,4.4,Winter
+Araku Valley,Andhra Pradesh,Nature,6000,4.5,Winter
+Tirupati,Andhra Pradesh,Historical,5000,4.6,Winter
+Lambasingi,Andhra Pradesh,Nature,5500,4.3,Winter
+Hyderabad,Telangana,Historical,6000,4.5,Winter
+Warangal,Telangana,Historical,5000,4.2,Winter
+Nizamabad,Telangana,Nature,4500,4.0,Winter
+Medak,Telangana,Historical,4500,4.1,Winter
+Mumbai,Maharashtra,Food,8000,4.6,Winter
+Pune,Maharashtra,Nature,6500,4.4,Winter
+Mahabaleshwar,Maharashtra,Nature,7000,4.5,Winter
+Lonavala,Maharashtra,Nature,6500,4.4,Monsoon
+Alibaug,Maharashtra,Beach,7000,4.3,Winter
+Nashik,Maharashtra,Historical,5500,4.2,Winter
+Aurangabad,Maharashtra,Historical,6000,4.5,Winter
+Ajanta,Maharashtra,Historical,5500,4.6,Winter
+Ellora,Maharashtra,Historical,5500,4.7,Winter
+Ahmedabad,Gujarat,Historical,5000,4.3,Winter
+Kutch,Gujarat,Nature,7000,4.6,Winter
+Somnath,Gujarat,Historical,5500,4.5,Winter
+Dwarka,Gujarat,Historical,6000,4.5,Winter
+Saputara,Gujarat,Nature,6500,4.2,Summer
+Munnar,Kerala,Nature,7000,4.8,Winter
+Wayanad,Kerala,Nature,6500,4.6,Winter
+Alleppey,Kerala,Nature,8000,4.7,Winter
+Kochi,Kerala,Food,6000,4.4,Winter
+Thekkady,Kerala,Adventure,7500,4.5,Winter
+Varkala,Kerala,Beach,7000,4.6,Winter
+Pondicherry,Puducherry,Beach,6500,4.5,Winter
+Auroville,Puducherry,Nature,6000,4.3,Winter
+Shillong,Meghalaya,Nature,8000,4.7,Summer
+Cherrapunji,Meghalaya,Nature,8500,4.8,Summer
+Tawang,Arunachal Pradesh,Nature,10000,4.7,Summer
+Gangtok,Sikkim,Nature,8500,4.7,Summer
+Yumthang Valley,Sikkim,Nature,10000,4.8,Summer
+Borra Caves,Andhra Pradesh,Adventure,6500,4.5,Winter
+Ananthagiri Hills,Telangana,Adventure,5500,4.3,Winter
+Adventure Island,Delhi,Adventure,5000,4.2,Winter
+Pathankot,Punjab,Adventure,6000,4.3,Winter
+Marina Beach,Tamil Nadu,Beach,5000,4.5,Winter
+Bheemunipatnam,Andhra Pradesh,Beach,6000,4.4,Winter
+Hussain Sagar,Telangana,Nature,4500,4.2,Winter
+Charminar Food Street,Telangana,Food,5000,4.5,Winter
+Connaught Place,Delhi,Food,5500,4.4,Winter
+Marine Drive,Maharashtra,Food,7000,4.6,Winter
+Lucknow Food Trail,Uttar Pradesh,Food,5000,4.7,Winter
+Amritsar Street Food,Punjab,Food,5500,4.8,Winter
+Ahmedabad Food Street,Gujarat,Food,5000,4.5,Winter
+Indore Sarafa Bazaar,Madhya Pradesh,Food,5500,4.8,Winter
+Bangalore Food Hub,Karnataka,Food,6500,4.6,Winter
+Jaipur Food Walk,Rajasthan,Food,6000,4.5,Winter
+Goa Seafood Trail,Goa,Food,7000,4.7,Winter
+Hyderabad Biryani Tour,Telangana,Food,6000,4.8,Winter
+Chennai Food Street,Tamil Nadu,Food,5500,4.5,Winter
+Delhi Street Food Tour,Delhi,Food,5000,4.7,Winter
+Dandeli,Karnataka,Adventure,7000,4.6,Winter
+Bir Billing,Himachal Pradesh,Adventure,9500,4.8,Summer
+Zanskar Valley,Ladakh,Adventure,15000,4.9,Summer
+Mechuka,Arunachal Pradesh,Adventure,12000,4.7,Summer
+Bhedaghat,Madhya Pradesh,Adventure,6000,4.5,Winter
+Kovalam,Kerala,Beach,7000,4.6,Winter
+Tarkarli,Maharashtra,Beach,6500,4.5,Winter
+Mandarmani,West Bengal,Beach,6000,4.3,Winter
+Kanyakumari,Tamil Nadu,Beach,5500,4.5,Winter
+Khajuraho,Madhya Pradesh,Historical,6000,4.8,Winter
+Sanchi,Madhya Pradesh,Historical,5000,4.6,Winter
+Hazaribagh,Jharkhand,Historical,4500,4.2,Winter
+Fatehpur Sikri,Uttar Pradesh,Historical,5500,4.7,Winter
+Valley of Flowers,Uttarakhand,Nature,9000,4.9,Summer
+Ziro Valley,Arunachal Pradesh,Nature,8500,4.8,Summer
+Mawlynnong,Meghalaya,Nature,7500,4.7,Summer
+Silent Valley,Kerala,Nature,7000,4.6,Winter

@@ -1,0 +1,20 @@
+.main-title{
+    text-align:center;
+    color:#0F4C81;
+    font-size:52px;
+    font-weight:bold;
+}
+
+.sub-title{
+    text-align:center;
+    color:#555;
+    font-size:20px;
+    margin-bottom:25px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:20px;
+    box-shadow:0px 5px 20px rgba(0,0,0,0.1);
+}
